@@ -1,4 +1,5 @@
-# Ankit-Sharma
+                                                              Ankit-Sharma
+                                                   Developer | Computer Science Student |
 
 🌱 I’m currently learning C++
 
